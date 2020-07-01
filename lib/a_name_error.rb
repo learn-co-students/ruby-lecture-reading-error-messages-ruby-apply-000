@@ -1,3 +1,3 @@
 "hello world"
 
-"It is a lovely day"
+"It is a lovely day!"
